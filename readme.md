@@ -12,16 +12,16 @@
 
 Após instalar o Python e o Tesseract, ```abra o prompt de comando como administrador e navegue até onde ira instalar o macrovisky```.
 
-Clone o repositório
+Clone o repositório  
 ```$ git clone https://github.com/thiagopinotti/macrovisky.git```
 
-Entre na pasta:
+Entre na pasta:  
 ```$ cd macrovisk```
 
-Atualizando pip:
+Atualizando pip:  
 ```pip3 install --upgrade pip```
 
-Baixando Dependências:
+Baixando Dependências:  
 ```pip install -r requirements.txt```
 
 ## Executando:
@@ -30,9 +30,9 @@ Baixando Dependências:
 
 As teclas para uso da macro são:
 
-<kbd>Home</kbd> - Inicia a macro
-<kbd>PageUp</kbd> - Pausa a macro
-<kbd>PageDown</kbd> - Termina a macro.
+<kbd>Home</kbd> - Inicia a macro  
+<kbd>PageUp</kbd> - Pausa a macro  
+<kbd>PageDown</kbd> - Termina a macro.  
 
 ## Configurações
 
