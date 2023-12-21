@@ -1,13 +1,10 @@
 # Macrovisk ☭
 
----
-
 ## Download e instalação
 
 Python - [Download](https://www.python.org/downloads/)
 Tesseract - [Dowload](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe)
 
----
 ## Instalando Macrovisky
 
 Na area de trabalho segure <kbd>Ctrl</kbd> clique com o botão direito e escolha "Abrir Janela dp PowerShell aqui"
@@ -30,8 +27,6 @@ Baixando Dependências:
 
 Clonando Repositório
 ```git clone https://github.com/thiagopinotti/macrovisky.git```
-
----
 
 ##Executando:
 
