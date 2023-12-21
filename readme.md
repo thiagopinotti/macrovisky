@@ -1,4 +1,4 @@
-# Macrovisk ☭
+# Macrovisky ☭
 
 ## Download e instalação
 
@@ -7,26 +7,21 @@
 
 ## Instalando Macrovisky
 
-Na area de trabalho segure <kbd>Ctrl</kbd> clique com o botão direito e escolha "Abrir Janela dp PowerShell aqui"
+#### Preparando o ambiente e clonando o repositorio:
 
-Dentro do PowerShell crie uma pasta com o comando:
+Após instalar o Python e o Tesseract, ```abra o prompt de comando como administrador e navegue até onde ira instalar o macrovisky```.
 
-```mkdir macrovisky```
+Clone o repositório
+```$ git clone https://github.com/thiagopinotti/macrovisky.git```
 
 Entre na pasta:
-
-```cd macrovisk```
-
-#### Preparando o ambiente e clonando o repositorio:
+```$ cd macrovisk```
 
 Atualizando pip:
 ```pip3 install --upgrade pip```
 
 Baixando Dependências:
 ```pip install -r requirements.txt```
-
-Clonando Repositório
-```git clone https://github.com/thiagopinotti/macrovisky.git```
 
 ## Executando:
 
