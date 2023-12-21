@@ -10,13 +10,13 @@
 
 #### Preparando o ambiente e clonando o repositorio:
 
-Após instalar o Python e o Tesseract, ```abra o prompt de comando como administrador e navegue até onde ira instalar o macrovisky```.
+Após instalar o Python e o Tesseract, abra o **prompt de comando** como administrador e navegue até onde ira instalar o macrovisky.
 
 Clone o repositório  
 ```$ git clone https://github.com/thiagopinotti/macrovisky.git```
 
 Entre na pasta:  
-```$ cd macrovisk```
+```$ cd macrovisky```
 
 Atualizando pip:  
 ```pip3 install --upgrade pip```
