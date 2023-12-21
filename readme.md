@@ -4,6 +4,7 @@
 
 - Python - [Download](https://www.python.org/downloads/)
 - Tesseract - [Dowload](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe)
+- Git - [Download](https://git-scm.com/downloads)
 
 ## Instalando Macrovisky
 
