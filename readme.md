@@ -17,7 +17,7 @@ Entre na pasta:
 
 ```cd macrovisk```
 
-####Preparando o ambiente e clonando o repositorio:
+#### Preparando o ambiente e clonando o repositorio:
 
 Atualizando pip:
 ```pip3 install --upgrade pip```
@@ -28,7 +28,7 @@ Baixando Dependências:
 Clonando Repositório
 ```git clone https://github.com/thiagopinotti/macrovisky.git```
 
-##Executando:
+## Executando:
 
 ```python -m main.py```
 
