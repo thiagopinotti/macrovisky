@@ -33,7 +33,7 @@ ASA = 'assets/asa.png'
 VERMELHO = 'assets/vermelho.png'
 TEXT_VERMELHO = ['[254   0   7]','[240   0   7]'] # OK
 AZUL = 'assets/azul.png'
-TEXT_AZUL = ['[  0 106 254]',] # ok
+TEXT_AZUL = ['[  0 106 254]','[  0 100 240]'] # ok
 AMARELO = 'assets/amarelo.png'
 TEXT_AMARELO = ['[180 156   0]',] #ok 
 VERDE = 'assets/verde.png'
@@ -140,11 +140,12 @@ def farm():
         pyautogui.click(X_CENTER+8, Y_CENTER+10)
 
         pyautogui.keyDown('f2')
-        sleep(.02)
+        sleep(.1)
         pyautogui.keyUp('f2')
-        # sleep(.2) #.2
-        # pyautogui.press('f1')
-        # sleep(.4) #.5
+        sleep(1) #.2
+        pyautogui.press('f1')
+        sleep(.4) #.5
+
         if antibot.encontrar_imagem(ANTIBOT):
             sleep(.5)
             pyautogui.press('enter')
